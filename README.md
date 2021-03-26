@@ -21,7 +21,7 @@ When the Boolean Variables are released to Version 106 of Gdevelop the Object Va
 
 _______________________________________________________________________________________________________________________________
 
-___________________________________________________Version 1.1 Update:_________________________________________________________
+Version 1.1 Update:
 
 For Objects that are more then half inside the drawn Box, the Variable Boolean "Selected" of Object is set to TRUE
 For Objects that are NOT more then half inside the box, the Variable Boolean "Selected" of Objects is set to FALSE
