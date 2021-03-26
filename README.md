@@ -18,3 +18,18 @@ Object Variable: "Selected"
 
 remarks:
 When the Boolean Variables are released to Version 106 of Gdevelop the Object Variable "selected" should be changed to Boolean.
+
+_______________________________________________________________________________________________________________________________
+
+___________________________________________________Version 1.1 Update:_________________________________________________________
+
+For Objects that are more then half inside the drawn Box, the Variable Boolean "Selected" of Object is set to TRUE
+For Objects that are NOT more then half inside the box, the Variable Boolean "Selected" of Objects is set to FALSE
+
+Reserved Variables :
+Scene Variables: "StartX" / "StartY" / "EndX" / "EndY" 
+Scene Variable Boolean: "drawing"
+Object Variable Boolean: "Selected"
+
+remarks:
+Boolean Variables added! Requires GDevelop version 106b or later
